@@ -38,7 +38,7 @@ The pipeline consists of several components:
 ### 1. Clone the Repository
 ```bash
 git clone [repository-url]
-cd smart-city-pipeline
+cd smart-city-real-time-project
 ```
 
 ### 2. Environment Setup
